@@ -1,0 +1,17 @@
+id: 1,
+    title: "Caída del servidor en el norte",
+    summary: "Una inesperada anomalía desconectó más de 300 estaciones.",
+    imageUrl: "/assets/img/tornado.jpg"
+
+  {
+    id: 2,
+    title: "Misteriosa señal captada por la estación de órbita",
+    summary: "Un extraño código ha sido detectado por el satélite Zauriel.",
+    imageUrl: "/assets/img/senal.jpg"
+  },
+  {
+    id: 3,
+    title: "Explosión en laboratorio bioenergético",
+    summary: "Se reporta que al menos 12 personas resultaron heridas.",
+    imageUrl: "/assets/img/explosion.jpg"
+  }

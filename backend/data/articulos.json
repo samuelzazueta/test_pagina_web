@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Fundación de fabrica Darkstar Company en Rondan en galdia Este",
+    "summary": "nueva fabrica de la compañia Darkstar ha sido inaugurada en la ciudad de Rondan, en Galdia Este.",
+    "imageUrl": "./public/img/parque.jpg",
+    "description": "Descripción completa del artículo aquí...",
+    "author": "Axel de Rondan, alcalde de la ciudad de Rondan"
+  },
+  {
+  "id": 2,
+  "title": "Nueva actualización AIdemonicaOS ver.3.1.21 para el holovisor",
+  "summary": "DESCUBRE LAS NUEVAS FUNCIONES DE AIDEMONICAOS Y LLEVA TU EXPERIENCIA HOLOVISUAL A UN NUEVO NIVEL.",
+  "description": "La división de software cognitivo de Darkstark Company se complace en anunciar el lanzamiento oficial de la versión 3.1.21 de AIdemonicaOS, el sistema operativo insignia que potencia el rendimiento del holovisor de inmersión total. Esta nueva versión representa un salto significativo en la integración entre inteligencia artificial, percepción sensorial aumentada y control neural intuitivo.\n\nEntre las principales mejoras se incluyen:\n\n- Optimización de la interfaz sináptica: Interacción más fluida entre el usuario y el sistema, con un retardo reducido a 0,004 segundos gracias a la nueva arquitectura de red cuántica de respuesta predictiva.\n- Núcleo emocional IA-Athys actualizado: Mejora en la adaptabilidad emocional del asistente virtual integrado. Ahora responde con mayor precisión a estados de ánimo y patrones de pensamiento, creando una experiencia verdaderamente personalizada.\n- Nuevos entornos inmersivos reconfigurables: Más de 300 plantillas base que permiten a los usuarios modificar su entorno holográfico con comandos mentales simples o gestuales, desde simulaciones tácticas militares hasta jardines mentales terapéuticos.\n- Modo Operador Oscuro: Una funcionalidad avanzada de nivel restringido diseñada para investigadores, estrategas y usuarios con autorización especial. Ofrece acceso a herramientas de manipulación energética, vigilancia psiónica y modelado de conciencia compartida.\n\nEsta actualización ha sido desarrollada con los más altos estándares de seguridad neurodigital, en colaboración con la Unidad de Investigación de Cognición Extendida de Darkstark, bajo la supervisión directa del CEO y arquitecto de sistema, Dastar Laltiner.\n\nCon AIdemonicaOS 3.1.21, Darkstark reafirma su compromiso con la fusión entre humanidad y tecnología, llevando al usuario más allá de los límites de la percepción, el control y la existencia misma.",
+  "imageUrl": "./public/img/os.jpg",
+  "author": "Almira Gemori, ingeniera de software de Darkstark"
+  },
+  {
+    "id": 3,
+    "title": "Avances del Gran Proyecto Doncella en respuesta a la crisis energética",
+    "summary": "Darkstark company una impulsa una nueva era de energía renovable usando conversión de esencia elemental.",
+    "imageUrl": "./public/img/reactor.jpg",
+    "author": "Malver Cophas, director de la ala de investigación de Darkstar",
+    "description": "Frente a la creciente crisis energética que enfrenta el imperio unificado de galdia, el CEO y cientifico jefe acargo gran Dastar laltiner ha revelado avances significativos en el Gran Proyecto Doncella. Esta iniciativa tecnológica, en desarrollo secreto desde hace más de una década, busca convertir la esencia elemental contenida en las Células Núcleo en una fuente de energía renovable y pura. Según declaraciones oficiales, el proyecto podría abastecer a las regiones más afectadas sin acfetar el equilibrio natural. Aunque hay sectores que celebran esta hazaña como un hito para la humanidad, otros temen que el abuso de la esencia elemental pueda tener consecuencias irreversibles, pero por palabras de Dastar Laltiner, el proyecto ha sido diseñado para ser seguro y sostenible. La compañía Darkstar ha prometido compartir más detalles en una conferencia de prensa programada para la próxima semana, donde se espera que se revelen más aspectos técnicos y éticos del proyecto. Sin embargo, la comunidad científica ya está dividida entre los que apoyan la iniciativa y los que advierten sobre sus posibles peligros. El Gran Proyecto Doncella podría marcar un antes y un después en la historia de la energía en el imperio unificado de Galdia."
+  },
+  {
+    "id": 4,
+    "title": "'Se inicia el proyecto del puente intercontinental'",
+    "summary": "Se aprovo la creacion del puente intercontineltal del 'stardust highway' que unira galdia central con el archicpielago de yoran...",
+    "imageUrl": "./public/img/puente.jpg",
+    "description": "Descripción completa del artículo aquí...",
+    "author": "john doe"
+  },
+  {
+    "id": 5,
+    "title": "Avance en IA médica",
+    "summary": "Un gran paso para la salud...",
+    "imageUrl": "./public/img/salud.jpg",
+    "description": "Descripción completa del artículo aquí...",
+    "author": "dra. Anastasia harper"
+  },
+  {
+    "id": 6,
+    "title": "nuevos avanzes en protesis biónicas para el publico",
+    "summary": "Un gran avance en la tecnología de prótesis biónicas ha sido realizado por la empresa Darkstar.",
+    "description": "Descripción completa del artículo aquí...",
+    "imageUrl": "/assets/img/protesis.jpg",
+    "author": "jean l. paul"
+  },
+  {
+    "id": 7,
+    "title": "Misteriosa señal captada por la estación de órbita",
+    "summary": "Un extraño código ha sido detectado por el satélite Zauriel.",
+    "description": "Descripción completa del artículo aquí...",
+    "imageUrl": "/assets/img/senal.jpg",
+    "author": "Elena Ruiz"
+  },
+  {
+    "id": 8,
+    "title": "Nuevo en laboratorio farmaceituca en Galdia",
+    "summary": "Un nuevo laboratorio farmacéutico ha sido inaugurado en Galdia central.",
+    "description": "Descripción completa del artículo aquí...",
+    "imageUrl": "/assets/img/explosion.jpg",
+    "author": "Ricardo Torres"
+  },
+  {
+    "id": 9,
+    "title": "reunion de la junta directiva de golteria y la directiva de darkstar",
+    "summary": "dastar laltiner y el director de golteria se reunen para discutir la alianza de  empresas",
+    "description": "Descripción completa del artículo aquí...",
+    "imageUrl": "/assets/img/ia.jpg",
+    "author": "Iris Kallum"
+  },
+  {
+    "id": 10,
+    "title": "secretos de la antigua civilización de LA PRIMERA ERA",
+    "summary": "Un nuevo descubrimiento arqueológico revela secretos ocultos en misteriosa estructura en el Mar de Iridia en yoran",
+    "description": "Descripción completa del artículo aquí...",
+    "imageUrl": "/assets/img/arqueologia.jpg",
+    "author": "Thales Norven"
+  }
+]
